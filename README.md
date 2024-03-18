@@ -48,11 +48,11 @@ This was the resulting Best Model
 
 Were you able to achieve the target model performance?
 
-<img width="475" alt="nn_one_results" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/bd22b191-ae7f-4564-926f-a182af3e49c8"> \n
+<img width="475" alt="nn_one_results" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/bd22b191-ae7f-4564-926f-a182af3e49c8"> 
 
-<img width="480" alt="nn_two_rsults" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/c3fa0be1-282f-40bc-8f41-6f16fd3bb812"> \n
+<img width="480" alt="nn_two_rsults" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/c3fa0be1-282f-40bc-8f41-6f16fd3bb812"> 
 
-<img width="497" alt="nn_three_final_results" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/25ebde62-8341-40b3-b24e-22d0341ca35b"> \n
+<img width="497" alt="nn_three_final_results" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/25ebde62-8341-40b3-b24e-22d0341ca35b"> 
 
 
 Models one, Two, and Three did not achieve the target model performance. However, model Three came significantly close!
