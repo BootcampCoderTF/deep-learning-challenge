@@ -58,7 +58,7 @@ Were you able to achieve the target model performance?
 <img width="497" alt="nn_three_final_results" src="https://github.com/BootcampCoderTF/deep-learning-challenge/assets/145591533/25ebde62-8341-40b3-b24e-22d0341ca35b">. 
 
 
-Models one, Two, and Three did not achieve the target model performance. However, model Three came significantly close!
+Model One (52.96% accuracy), Model Two (57.76% accuracy), and Model Three (73.32% accuracy) did not achieve the target model performance. However, model Three came significantly close!
 
 What steps did you take in your attempts to increase model performance?
 
@@ -70,4 +70,4 @@ Automated hyperparameter tuning using Keras Tuner significantly improved model p
 
 The overall results indicate that manual adjustments to the neural network architecture were not sufficient to achieve the target performance. However, automated hyperparameter tuning proved to be effective in improving model performance. My recommendation would be to further refine the hyperparameters, particularly by increasing variables such as the maximum number of nodes and hidden layers. This would unfortunately increase testing time significantly which would have to be taken into consideration.
 
-#### By Tafadzwa Fararira
+##### By Tafadzwa Fararira
